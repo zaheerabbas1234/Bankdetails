@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Atm {
 	
-	private int accountno;
+	private int accountno
 	private int amount;
 	private int pin;
 	
